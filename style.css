@@ -7,6 +7,16 @@ h1{
     grid-template-columns: repeat(3 ,1fr);
     grid-gap: 15px;
 }
+#county-details{
+    border:  1px solid turquoise;
+    text-align: center;
+    display : none;
+    margin: 5px;
+}
+#county-details img{
+    width:100px;
+    height:100px;
+}
 .country{
     border:  1px solid goldenrod;
     border-radius: 20px;
